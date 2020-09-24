@@ -1,4 +1,4 @@
-# data used in paper: Importance of Scientific Collaboration in Contemporary Drug Discovery and Development
+# data used in paper: Importance of Scientific Collaboration in Contemporary Drug Discovery and Development: A Detailed Network Analysis
 Authors: Cheng F, Ma Y, Uzzi B, Loscalzo J
 
 Data:
